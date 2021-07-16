@@ -1,4 +1,4 @@
-US BIKESHARE ANALYSIS
+US BIKESHARE ANALYSIS.
 
 ABOUT THE PROJECT
 
@@ -10,7 +10,7 @@ DATA FILES
 The required files for running this program are:
 * washington.csv
 * new_york_city.csv
-* chicago.csv
+* chicago.csv.
 
 
 RESOURCES
@@ -21,4 +21,4 @@ To complete the project, I used my knowledge which I gained over the course of s
 2. Python documentation
 3. Stackoverflow
 4. Pandas Documentation
-5. For running small snippets of code, i made use of the Jupyter Notebook
+5. For running small snippets of code, i made use of the Jupyter Notebook.
