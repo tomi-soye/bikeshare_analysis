@@ -2,7 +2,7 @@ US BIKESHARE ANALYSIS
 
 ABOUT THE PROJECT
 
-This is the second project of an Udacity course titled Programming for Data Science with Python. This project uses knowledge of Python's libraries- Pandas and Numpy, to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington. Statistic information were retrieved from the database. The user is able filter the information by city, month and weekday.
+This project uses knowledge of Python's libraries- Pandas and Numpy, to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington. Statistic information were retrieved from the database. The user is able filter the information by city, month and weekday.
 
 
 DATA FILES
